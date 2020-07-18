@@ -1,0 +1,22 @@
+.box {
+    cursor: pointer;
+    flex-grow: 1;
+    flex-basis: 0;
+    display: flex;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: brown;
+}
+
+.grey {
+    background-color:lightslategray;
+}
+
+.chose{
+    border: 1px solid greenyellow;
+}

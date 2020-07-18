@@ -1,0 +1,20 @@
+.pawn {
+    border-radius: 70%;
+    width: 70%;
+    height: 70%;
+    border: 1.5px solid grey;
+    background-color:black;
+    width: 40px;
+    height: 40px;
+    margin-left: 1px;
+    display: inline-block;
+    
+}
+
+.black {
+    background-color:black;
+}
+
+.white {
+    background-color: white;
+}
