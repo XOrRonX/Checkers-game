@@ -9,4 +9,4 @@
 - Each time a player moves including multi-jumps, the game records the board's state.
 - When a pieces is selected, available moves (including jumps) are passed to the game's state.
 
-
+![Tux, the Linux mascot](https://github.com/XOrRonX/Checkers-game/blob/master/%E2%80%8F%E2%80%8Fcheckers.PNG?raw=true)
